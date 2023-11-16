@@ -1,0 +1,7 @@
+Problem Description:-
+    Given a number A. Return square root of the number if it is perfect square otherwise return -1.
+
+    Note: A number is a perfect square if its square root is an integer.
+
+Problem Constraints:-
+    1 <= A <= 108
